@@ -1,2 +1,2 @@
-# devcon-connectors-flow
-Learn more about Connectors &amp; Flow and share your feedback!
+# Algolia DevCon 2022: Connectors & Flow
+Learn more about Connectors & Flow and share your feedback!
