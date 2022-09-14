@@ -26,3 +26,6 @@ As we continue to build our Connector and Flow APIs we need your input to help u
 
 ## Stay in the know
 Want to get the latest updates on these APIs and access the beta? [Sign up for our beta program](https://forms.gle/Ei3AUDgpbu8QaHtFA) and we'll let you know when it's ready!
+
+## Release timeframe
+We are aiming to have the Connector & Flow APIs available at the end of 2022.
